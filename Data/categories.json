@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "C++"
+    },
+    {
+        "id": "2",
+        "name": "Python"
+    },
+    {
+        "id": "3",
+        "name": "UX/UI"
+    },
+    {
+        "id": "4",
+        "name": "HTML & CSS"
+    },
+    {
+        "id": "5",
+        "name": "CSS Frameworks"
+    },
+    {
+        "id": "6",
+        "name": "JavaScript"
+    },
+    {
+        "id": "7",
+        "name": "Explore Browser & Debug"
+    },
+    {
+        "id": "8",
+        "name": "React"
+    },
+    {
+        "id": "9",
+        "name": "Database"
+    },
+    {
+        "id": "10",
+        "name": "Data Structure & Algorithm"
+    }
+]
