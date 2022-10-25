@@ -9,34 +9,18 @@
     },
     {
         "id": "3",
-        "name": "UX/UI"
-    },
-    {
-        "id": "4",
         "name": "HTML & CSS"
     },
     {
-        "id": "5",
-        "name": "CSS Frameworks"
-    },
-    {
-        "id": "6",
+        "id": "4",
         "name": "JavaScript"
     },
     {
-        "id": "7",
-        "name": "Explore Browser & Debug"
-    },
-    {
-        "id": "8",
+        "id": "5",
         "name": "React"
     },
     {
-        "id": "9",
+        "id": "6",
         "name": "Database"
-    },
-    {
-        "id": "10",
-        "name": "Data Structure & Algorithm"
     }
 ]
