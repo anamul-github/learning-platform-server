@@ -8,6 +8,7 @@ const port = process.env.PORT || 5000;
 
 const categories = require('./Data/categories.json');
 
+
 app.get('/', (req, res) => {
     res.send('Learning Hour Server Running');
 });
