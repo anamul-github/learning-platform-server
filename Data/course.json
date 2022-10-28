@@ -3,15 +3,15 @@
         "id": "1",
         "header": "C++",
         "img": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
-        "text": "Start your coding journey with C++",
+        "text": "One of the biggest advantages of C++ is the feature of object-oriented programming which includes concepts like classes, inheritance, polymorphism, data abstraction, and encapsulation that allow code reusability and makes a program even more reliable.",
         "price": "100",
-        "ratings": "5"
+        "ratings": "4.8"
     },
     {
         "id": "2",
         "header": "Python",
         "img": "https://stackify.com/wp-content/uploads/2018/09/Learn-Python-1.jpg",
-        "text": "Deep dive with Python.",
+        "text": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
         "price": "100",
         "ratings": "5"
     },
@@ -19,32 +19,32 @@
         "id": "3",
         "header": "HTML & CSS",
         "img": "https://velog.velcdn.com/images/gaeon/post/cc8d4303-bc84-4788-9cb2-b3d2f53f4c3e/image.jpg",
-        "text": "Learn the skeleton and design of the webpages by learning HTML & CSS.",
+        "text": "Ideally you'll learn HTML first, then CSS, and then finish with JavaScript, as they build on each other in that order. If you want to create websites or web applications, you need to learn HTML and CSS. HTML is used to create the structure and layout of web pages, while CSS is used to style the content of web pages.",
         "price": "50",
-        "ratings": "5"
+        "ratings": "4.9"
     },
     {
         "id": "4",
         "header": "JavaScript",
         "img": "https://itchief.ru/assets/images/covers/javascript-statements.png",
-        "text": "Make good interaction with webpages by learning JavaScript.",
+        "text": "JavaScript supports valuable skills such as object-oriented, functional, and imperative styles of programming. Beginner developers, in turn, can apply these skills to any new language they want to learn, like Python, Java, or C++.",
         "price": "100",
         "ratings": "5"
     },
     {
         "id": "5",
         "header": "React",
-        "img": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
-        "text": "Make cool website and big projects very fast.",
+        "img": "https://codelearn.io/Upload/Blog/react-js-co-ban-phan-1-63738082145.3856.jpg",
+        "text": "React Builds Robust & Intuitive User Interfaces. It allows developers to declaratively describe user interfaces, taking a lot of the heavy lifting out of the coding process while making the code more simple to read and understand.",
         "price": "200",
-        "ratings": "5"
+        "ratings": "4.8"
     },
     {
         "id": "6",
         "header": "Database",
         "img": "https://miro.medium.com/max/750/0*rwqI3XKmDZgsVuxr.jpg",
-        "text": "Know about databases to store and retrieve data.",
+        "text": "Databases support good data access because: Large volumes of data can be stored in one place. Multiple users can read and modify the data at the same time. Databases are searchable and sortable, so the data you need can be found quick and easily.",
         "price": "100",
-        "ratings": "5"
+        "ratings": "4.7"
     }
 ]

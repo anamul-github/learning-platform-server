@@ -26,19 +26,3 @@ app.get('/contentDetails/:id', (req, res) => {
 app.listen(port, () => {
     console.log('Learning Hour is running on port:', port);
 });
-
-
-
-
-// app.get('/course/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedCourse = course.filter(n => n.id === id);
-//     res.send(selectedCourse);
-// });
-
-// app.get('/category/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedCategory = course.find(n => n.id === id)
-//     res.send(selectedCategory);
-
-// });

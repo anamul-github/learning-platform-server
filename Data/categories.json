@@ -11,7 +11,7 @@
         "category_id": "22",
         "name": "Python",
         "img": "https://stackify.com/wp-content/uploads/2018/09/Learn-Python-1.jpg",
-        "text": "Deep dive with Python."
+        "text": "Deep dive with Python. Make something big."
     },
     {
         "id": "3",
@@ -31,7 +31,7 @@
         "id": "5",
         "category_id": "55",
         "name": "React",
-        "img": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
+        "img": "https://codelearn.io/Upload/Blog/react-js-co-ban-phan-1-63738082145.3856.jpg",
         "text": "Make cool website and big projects very fast."
     },
     {
